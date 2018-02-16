@@ -1,5 +1,3 @@
-exportPattern("^[[:alpha:]]+")
-
 export(fars_map_state)
 export(fars_read)
 export(fars_read_years)
