@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-This helps in simple exploration of the data from the National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS). This is an assignment work for the "Building R Packages" course on Coursera, as part of the Johns Hopkins University "Mastering Software Development in R" specialization.
+This helps in simple exploration of the data from the US National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS). This is an assignment work for the "Building R Packages" course on Coursera, as part of the Johns Hopkins University "Mastering Software Development in R" specialization.
 
 ## Data source
 The data in this package come from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System, which is a nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
