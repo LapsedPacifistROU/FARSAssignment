@@ -1,11 +1,15 @@
 Package: FARSAssignment
 Type: Package
-Title: What the Package Does (Title Case)
+Title: FARS Data Analysis
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: c(person("Zubeyir", "OFLAZ", 
+                    email = "zubeyir.oflaz@gmail.com",
+                    role = c("aut", "cre")))
+Description: This helps in simple exploration of the data from the US National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS).
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
